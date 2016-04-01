@@ -27,5 +27,6 @@ My facebook page [facebook] (https://www.facebook.com)
 * third
 * third
 
-1 first
-2 second
+1. first
+2. second
+3. third
