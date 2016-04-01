@@ -16,3 +16,11 @@ This is a separate code
 ```
 
 My facebook page [facebook] (https://www.facebook.com)
+
+- first
+- two
+- third
+
+* first
+* two
+* third
